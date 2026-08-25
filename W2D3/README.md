@@ -12,7 +12,7 @@ A lightweight, production-structured inference microservice built with FastAPI a
 ## Verification
 
 * Image: `betap/aidc-serving:cpu-v1`
-* Status: `GREEN CHECK: PASS`
-
 <img width="1323" height="90" alt="Screenshot 2026-08-25 165753" src="https://github.com/user-attachments/assets/2fbe5f84-b0c9-4183-9c69-1ab996640ba2" />
+
+* Status: `GREEN CHECK: PASS`
 <img width="1356" height="199" alt="Screenshot 2026-08-25 165541" src="https://github.com/user-attachments/assets/32462834-4c67-44f8-8cc1-0a043e865fc1" />
