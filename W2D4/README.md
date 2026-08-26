@@ -14,6 +14,7 @@ A lightweight inference microservice that dynamically detects available hardware
 * Image: `betap/aidc-serving:gpu-v1`
 <img width="1578" height="227" alt="Screenshot 2026-08-26 164605" src="https://github.com/user-attachments/assets/9f145f77-05e9-4a8b-ac26-8fe46f0ff332" />
 * Status: `GREEN CHECK: PASS`
+
 ```text
 OK:Tesla T4:32.1
 part 1: GPU image resolved
