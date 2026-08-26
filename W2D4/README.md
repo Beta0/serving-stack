@@ -6,7 +6,7 @@ A lightweight inference microservice that dynamically detects available hardware
 
 | Environment | Hardware | Device Detected | Speed (Tokens/sec) |
 | :--- | :--- | :--- | :--- |
-| **Local (Laptop)** | CPU | `cpu` | **32.1** |
+| **Local (Laptop)** | CPU | `cpu` | **3-5** |
 | **Google Colab** | Tesla T4 GPU | `cuda` | **32.1** |
 
 ## Verification
