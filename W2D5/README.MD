@@ -11,3 +11,9 @@
 
 Docker Compose Up
 ![pic](Screenshot-2026-08-27-223203.png)
+Container Health Status
+![pic](Screenshot-2026-08-27-223312.png)
+API Request
+![pic](Screenshot-2026-08-27-224502.png)
+Final Verification (GREEN CHECK)
+![pic](Screenshot-2026-08-27-225111.png)
