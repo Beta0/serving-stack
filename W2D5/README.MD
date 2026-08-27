@@ -16,4 +16,4 @@ Container Health Status
 API Request
 ![pic](Screenshot-2026-08-27-224502.png)
 Final Verification (GREEN CHECK)
-![pic]<(Screenshot 2026-08-27 225111.png)>
+![pic](Screenshot 2026-08-27 225111.png)
