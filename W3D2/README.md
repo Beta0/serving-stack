@@ -9,7 +9,7 @@
 
 GREEN CHECK:
 
-![Green Check Pass](Screenshot-2026-08-31-140559.png)
+<img width="608" height="120" alt="Screenshot-2026-08-31-140559" src="https://github.com/user-attachments/assets/ed847d72-48a5-4bf6-9f28-a9b1371d573e" />
 
 ## Predict (By Hand) - Extra Lab
 * **Fraction of unused reserved slab (4096 max vs 300 avg): Roughly 60% goes unused.
@@ -18,4 +18,4 @@ GREEN CHECK:
 
 GREEN CHECK:
 
-![Green Check Pass](Screenshot-2026-08-31-140433.png)
+<img width="768" height="89" alt="Screenshot-2026-08-31-140433" src="https://github.com/user-attachments/assets/014bc9fe-f28a-44d9-9674-ebf639139551" />
