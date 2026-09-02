@@ -8,7 +8,7 @@
 ## Locked Model Results
 
 * **Model ID:** `Qwen/Qwen2.5-1.5B-Instruct-AWQ`
-* **Smoke Score:** 10/10 (Perfect score with full distractor compliance)
+* **Smoke Score:** 10/10 
 
 ## Verification (Green Check)
 
