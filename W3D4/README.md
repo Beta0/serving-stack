@@ -1,7 +1,4 @@
 # Lab W3D4: Quantise and Lock the Model
-
-This repository contains the results of the Week 3 Day 4 lab, where we served a 4-bit AWQ quantized model and validated its function-calling capabilities.
-
 ## Predictions
 
 * **VRAM Usage (`nvidia-smi`):** Predicted to be **about the same**. The weights are smaller, but vLLM allocates the freed memory to expand the KV cache based on `--gpu-memory-utilization 0.85`.
