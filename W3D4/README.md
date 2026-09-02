@@ -15,7 +15,4 @@ This repository contains the results of the Week 3 Day 4 lab, where we served a 
 
 ## Verification (Green Check)
 
-The endpoint passed the function-calling smoke test and the configuration is fully locked. Below is the verification proof:
-
-<!-- أضف صورة العلامة الخضراء (Green Check) تحت هذا السطر مباشرة -->
-![Green Check](ضع_رابط_أو_مسار_الصورة_هنا)
+<img width="477" height="123" alt="Screenshot 2026-09-02 145215" src="https://github.com/user-attachments/assets/11f1db07-8255-4410-8c6b-e12297a17865" />
