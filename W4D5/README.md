@@ -1,4 +1,4 @@
-# Lab W4D5: Go-Live (Team 11)
+# Lab W4D5: Go-Live (Team 5)
 
 ## Predictions
 1. **Non-Kubernetes points of failure: The application pod crashing, and the named tunnel (Cloudflare) going offline.
